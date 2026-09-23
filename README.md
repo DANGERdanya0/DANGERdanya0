@@ -1,127 +1,127 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:F6D742,50:E8B923,100:8B5E1C&height=220&section=header&text=Daniil%20Lomonosov&fontSize=48&fontColor=3B2A14&fontAlignY=38&desc=DevOps%20%2F%20SRE%20Engineer&descAlignY=58&descSize=20&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a0033,50:4b0082,100:2c0b4a&height=220&section=header&text=Даниил%20Ломоносов&fontSize=48&fontColor=e0d4ff&fontAlignY=42&animation=fadeIn&desc=DevOps%20%2F%20SRE%20Engineer&descAlignY=62&descColor=b39ddb" width="100%"/>
 
-### 🌾 Инженер по сопровождению · DevOps · SRE 🚜
+<img src="YOUR_AVATAR_URL_HERE" width="140" height="140" style="border-radius:50%;border:3px solid #8a2be2;"/>
 
-<img src="https://img.shields.io/badge/-🌻_Москва-F6D742?style=for-the-badge&labelColor=8B5E1C&color=F6D742" />
-<img src="https://img.shields.io/badge/-🚜_Открыт_к_работе-F6D742?style=for-the-badge&labelColor=8B5E1C&color=F6D742" />
-<a href="https://t.me/Den_Nakamuro"><img src="https://img.shields.io/badge/-Telegram-F6D742?style=for-the-badge&logo=telegram&logoColor=3B2A14&labelColor=8B5E1C&color=F6D742" /></a>
+<br/>
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=800&color=B388FF&center=true&vCenter=true&width=600&lines=Строю+и+сопровождаю+инфраструктуру;Monitoring+%7C+Kubernetes+%7C+Automation;Быстро.+Чисто.+Работает+с+первого+раза.)](https://git.io/typing-svg)
+
+<br/>
+
+**🇷🇺 [Русский](#ru) &nbsp;|&nbsp; 🇬🇧 [English](#en)**
 
 </div>
 
-```
-🌾🌾🌾  ___________  🌾🌾🌾   🚜  🌾🌾🌾  ___________  🌾🌾🌾
-🌾🌾🌾 |  ,---.    | 🌾🌾🌾      🌾🌾🌾 |  ,---.    | 🌾🌾🌾
-🌾🌾🌾 | (o o)     | 🌾🌾🌾      🌾🌾🌾 | (o o)     | 🌾🌾🌾
-```
+<br/>
 
-## 👨‍🌾 Обо мне
+<a id="ru"></a>
+<div align="center">
 
-Молодой и перспективный инженер по сопровождению с практическим опытом администрирования IT-инфраструктуры и построения систем мониторинга. Развиваюсь в направлении DevOps и SRE, применяя современные практики для повышения надёжности и автоматизации процессов.
+> 🚀 **Молодой инженер по сопровождению**, который уже развернул системы мониторинга с нуля и держит под контролем тестовый Proxmox-кластер из 10 хостов.
+> ⚙️ Автоматизирую рутину, а не тушу пожары вручную — Bash, Python и GitLab CI вместо ручных костылей.
+> 📡 Мониторинг, бэкапы, сети — если это инфраструктура, я это настрою, задеплою и буду поддерживать.
+> 🎯 Быстро осваиваю новое и довожу задачи до результата, а не до отчёта.
 
-- 🔧 Администрирование инфраструктуры (Windows Server, Active Directory, Linux, Proxmox)
-- 📊 Мониторинг систем (Prometheus, Grafana, Loki, VictoriaMetrics, ELK)
-- ⚙️ Автоматизация процессов (Bash, Python, GitLab CI)
-- 🎧 Техническая поддержка и работа с ITSM-системами
+</div>
 
-Быстро осваиваю новые технологии, умею работать как самостоятельно, так и в команде, и постоянно совершенствую навыки в области автоматизации и управления IT-инфраструктурой.
+<br/>
 
----
+## 💼 Опыт
 
-## 🚜 Опыт работы
+<div align="center">
 
-<table width="100%">
-<tr>
-<td width="100%">
+| Компания | Срок |
+|---|---|
+| 🏛️ **Финансовый университет при Правительстве РФ** | Апрель 2026 — н.в. (6 мес.) |
+| 🧪 **PanTech** (Лаборатория цифровых технологий) | Сентябрь 2025 — Июль 2026 (11 мес.) |
 
-### 🌾 DevOps-инженер
-**Лаборатория цифровых технологий и трансформации бизнес-процессов в промышленности PanTech** · Москва
-`Сентябрь 2025 — Июль 2026 · 11 месяцев`
+</div>
 
-- Сопровождение тестового кластера Proxmox (10 физических машин): развёртывание мониторинга (WindowsExporter, cAdVisor, Grafana, Loki, Prometheus), администрирование ресурсов, выдача тестовых ВМ
-- Администрирование Linux-серверов и Kubernetes-кластеров, деплой сервисов, автоматизация процессов на Bash
-- Проектирование систем мониторинга и алертинга (Grafana Alloy, Prometheus, Loki, AlertManager, VictoriaMetrics/VictoriaLogs, ELK)
-- Бэкап-системы: репликация с продакшеном, скрипты на Bash/Python с rsync, развёртывание S3-хранилищ (NextCloud, MinIO)
-- CI в GitLab: работа с пайплайнами и тестами; настройка сети (Nginx, Firewall, Certbot/OpenSSL)
+<br/>
 
-</td>
-</tr>
-<tr>
-<td width="100%">
+<a id="en"></a>
+<div align="center">
 
-### 🌻 Специалист технической поддержки
-**Финансовый университет при Правительстве Российской Федерации** · Москва
-`Апрель 2026 — настоящее время · 6 месяцев`
+### 🇬🇧 English
 
-- Администрирование учётных записей сотрудников и студентов, работа в домене (политики, добавление ПК), управление Active Directory
-- Создание и обновление образов операционных систем, обслуживание техники (сборка/ремонт), работа с серверным оборудованием
-- Работа с ITSM (создание/обработка заявок), мониторинг информационных систем
-- **Достижение:** развернул систему мониторинга на базе WindowsExporter, Grafana и Prometheus для учебного заведения
+> 🚀 **A young support/reliability engineer** who has already built monitoring systems from scratch and manages a 10-host Proxmox test cluster.
+> ⚙️ I automate the routine instead of firefighting manually — Bash, Python and GitLab CI instead of manual workarounds.
+> 📡 Monitoring, backups, networking — if it's infrastructure, I'll set it up, deploy it, and keep it running.
+> 🎯 I pick up new tech fast and deliver results, not just reports.
 
-</td>
-</tr>
-</table>
+</div>
 
----
+<br/>
 
-## 🌱 Образование
+## 💼 Experience
 
-**Финансовый университет при Правительстве Российской Федерации**, Москва
-Среднее специальное · КИПФИН, «Разработчик web-интерфейсов» · 2027
+<div align="center">
 
----
+| Company | Duration |
+|---|---|
+| 🏛️ **Financial University under the Government of the RF** | Apr 2026 — Present (6 mo.) |
+| 🧪 **PanTech** (Digital Technologies & Business Process Transformation Lab) | Sep 2025 — Jul 2026 (11 mo.) |
 
-## 🛠️ Технологии
+</div>
+
+<br/>
+
+## 🛠️ Стек технологий
 
 <div align="center">
 
 **Инфраструктура и ОС**
+<br/>
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Windows Server](https://img.shields.io/badge/Windows%20Server-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+![Active Directory](https://img.shields.io/badge/Active%20Directory-0078D6?style=for-the-badge&logo=microsoft&logoColor=white)
+![Proxmox](https://img.shields.io/badge/Proxmox-E57000?style=for-the-badge&logo=proxmox&logoColor=white)
+![Cisco](https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
 
-<img src="https://img.shields.io/badge/Linux-8B5E1C?style=for-the-badge&logo=linux&logoColor=F6D742"/>
-<img src="https://img.shields.io/badge/Windows_Server-8B5E1C?style=for-the-badge&logo=windows&logoColor=F6D742"/>
-<img src="https://img.shields.io/badge/Active_Directory-8B5E1C?style=for-the-badge&logo=microsoft&logoColor=F6D742"/>
-<img src="https://img.shields.io/badge/Proxmox-8B5E1C?style=for-the-badge&logo=proxmox&logoColor=F6D742"/>
-<img src="https://img.shields.io/badge/Kubernetes-8B5E1C?style=for-the-badge&logo=kubernetes&logoColor=F6D742"/>
+**Оркестрация и деплой**
+<br/>
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![GitLab CI](https://img.shields.io/badge/GitLab%20CI-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
+![Certbot](https://img.shields.io/badge/Certbot-003A70?style=for-the-badge&logo=letsencrypt&logoColor=white)
+![OpenSSL](https://img.shields.io/badge/OpenSSL-721412?style=for-the-badge&logo=openssl&logoColor=white)
 
 **Мониторинг**
+<br/>
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
+![Loki](https://img.shields.io/badge/Loki-F5A623?style=for-the-badge&logo=grafana&logoColor=white)
+![VictoriaMetrics](https://img.shields.io/badge/VictoriaMetrics-621773?style=for-the-badge&logo=victoriametrics&logoColor=white)
+![Elastic](https://img.shields.io/badge/ELK%20Stack-005571?style=for-the-badge&logo=elasticsearch&logoColor=white)
+![AlertManager](https://img.shields.io/badge/AlertManager-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
 
-<img src="https://img.shields.io/badge/Prometheus-8B5E1C?style=for-the-badge&logo=prometheus&logoColor=F6D742"/>
-<img src="https://img.shields.io/badge/Grafana-8B5E1C?style=for-the-badge&logo=grafana&logoColor=F6D742"/>
-<img src="https://img.shields.io/badge/Loki-8B5E1C?style=for-the-badge&logo=grafana&logoColor=F6D742"/>
-<img src="https://img.shields.io/badge/VictoriaMetrics-8B5E1C?style=for-the-badge&logoColor=F6D742"/>
-<img src="https://img.shields.io/badge/ELK_Stack-8B5E1C?style=for-the-badge&logo=elastic&logoColor=F6D742"/>
-<img src="https://img.shields.io/badge/AlertManager-8B5E1C?style=for-the-badge&logoColor=F6D742"/>
+**Языки и скрипты**
+<br/>
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
-**Автоматизация и CI/CD**
+**Хранение и бэкапы**
+<br/>
+![MinIO](https://img.shields.io/badge/MinIO-C72E49?style=for-the-badge&logo=minio&logoColor=white)
+![Nextcloud](https://img.shields.io/badge/Nextcloud-0082C9?style=for-the-badge&logo=nextcloud&logoColor=white)
+![rsync](https://img.shields.io/badge/rsync-FF6600?style=for-the-badge&logo=rsync&logoColor=white)
 
-<img src="https://img.shields.io/badge/Bash-8B5E1C?style=for-the-badge&logo=gnubash&logoColor=F6D742"/>
-<img src="https://img.shields.io/badge/Python-8B5E1C?style=for-the-badge&logo=python&logoColor=F6D742"/>
-<img src="https://img.shields.io/badge/GitLab_CI-8B5E1C?style=for-the-badge&logo=gitlab&logoColor=F6D742"/>
-
-**Сеть и хранилища**
-
-<img src="https://img.shields.io/badge/Nginx-8B5E1C?style=for-the-badge&logo=nginx&logoColor=F6D742"/>
-<img src="https://img.shields.io/badge/Certbot_/_OpenSSL-8B5E1C?style=for-the-badge&logo=letsencrypt&logoColor=F6D742"/>
-<img src="https://img.shields.io/badge/MinIO-8B5E1C?style=for-the-badge&logo=minio&logoColor=F6D742"/>
-<img src="https://img.shields.io/badge/Nextcloud-8B5E1C?style=for-the-badge&logo=nextcloud&logoColor=F6D742"/>
-<img src="https://img.shields.io/badge/rsync-8B5E1C?style=for-the-badge&logoColor=F6D742"/>
-<img src="https://img.shields.io/badge/ITSM-8B5E1C?style=for-the-badge&logoColor=F6D742"/>
+**Сервис-менеджмент**
+<br/>
+![ITSM](https://img.shields.io/badge/ITSM-4B0082?style=for-the-badge&logo=serviceteam&logoColor=white)
 
 </div>
 
----
-
-<div align="center">
+<br/>
 
 ## 📬 Контакты
 
-<a href="https://t.me/Den_Nakamuro">
-<img src="https://img.shields.io/badge/Telegram-@Den__Nakamuro-F6D742?style=for-the-badge&logo=telegram&logoColor=3B2A14&labelColor=8B5E1C"/>
-</a>
+<div align="center">
 
-<sub>🌾 Спасибо, что заглянули на мой урожайный профиль! 🚜</sub>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8B5E1C,50:E8B923,100:F6D742&height=100&section=footer" width="100%"/>
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Den_Nakamuro)
 
 </div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c0b4a,50:4b0082,100:1a0033&height=100&section=footer" width="100%"/>
